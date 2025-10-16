@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on website project<br>👯 I’m looking to collaborate on React website project<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning JS and Python frameworks<br>💬 Ask me about web and database integration<br>⚡ Fun fact: Tagalog only please
+🔭 I’m currently working on website project<br>👯 I’m looking to collaborate on React website project<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning JS and Python frameworks<br>💬 Ask me about web and database integration<br>⚡ Fun fact: Anak ni Mommy Oni at Daddy Rob
 
 
 # 💻 Tech Stack:
